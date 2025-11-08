@@ -28,9 +28,9 @@ This project runs inside a **Docker container** using an Ubuntu environment, so 
 
 ---
 
-## 🏗️ Project Setup
+##  Project Setup
 
-### 1️⃣ Clone or Create Project Folder
+###  Clone or Create Project Folder
 ```bash
 mkdir system-monitor
 cd system-monitor
